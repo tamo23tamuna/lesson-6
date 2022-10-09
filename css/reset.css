@@ -42,7 +42,7 @@ table {
 	border-spacing: 0;
 }
 a{
-	border-spacing: none;
+	text-decoration: none;
 }
 * {
 	box-sizing: border-box;
