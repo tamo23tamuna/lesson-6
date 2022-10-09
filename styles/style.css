@@ -1,0 +1,94 @@
+body{
+	background-color: #F6F8F9;
+}
+
+/*Header*/
+header{
+	width: 100%;
+	height: 50px;
+	background-color: #F6F8F9;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 3;
+}
+.logo{
+	font-size: 13px;
+	color: #FA6980;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 18px 92px 17px 20px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.profile{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 18px;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 22px;
+}
+.list-item{
+	font-size: 11px;
+	color: #343638;
+	opacity: 0.5;
+	font-family: helvatic-bold;
+}
+.active{
+	color: #343638;
+	opacity: 1;
+}
+
+
+
+/*section 1*/
+.section1{
+	width: 1160px;
+	height: 410px;
+	margin: 0 auto;
+	margin-top: 75px;
+}
+h2{
+	font-size: 24px;
+	height: 20px;
+}
+.box{
+	width: 360px;
+	height: 350px;
+	background-color: white;
+	margin-top: 40px;
+	display: inline-block;
+}
+.image-div{
+    position: relative;
+}
+.image1-title{
+	color: white;
+	font-size: 16px;
+	position: absolute;
+	top: 28px;
+	left: 40px;
+}
+.lorem{
+	width: 280px;
+	height: 38px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin: 0 auto;
+	margin-top: 66px;
+}
+.clock-div{
+	margin: 10px 0 0 40px;
+}
+span{
+	color: #A6ADB4;
+	font-size: 13px;
+}
+.next{
+	margin-left: 36px;
+	display: inline-block;
+}
