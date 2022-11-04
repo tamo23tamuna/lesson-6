@@ -49,7 +49,6 @@ header{
 /*section 1*/
 .section1{
 	width: 1160px;
-	height: 410px;
 	margin: 0 auto;
 	margin-top: 75px;
 }
@@ -101,14 +100,12 @@ span{
 /*section 2*/
 .section2{
 	width: 1160px;
-	height: 956px;
 	margin: 0 auto;
 	margin-top: 58px;
 	margin-bottom: 234px;
 }
 .left-images-div{
 	width: 760px;
-	height: 900px;
 	margin-top: 40px;
 	display: inline-block;
 	vertical-align: top;
@@ -129,7 +126,6 @@ span{
 }
 .right-images-div{
 	width: 360px;
-	height: 896px;
 	margin-top: 40px;
 	margin-left: 36px;
 	display: inline-block;
